@@ -1,7 +1,7 @@
 # GreekCVVC
 an Extended reclist for the Greek Language for use in UTAU & OpenUtau.
 
-for the time being both the Base Oto Ini file, and Presamp ini file for use with the plugin in regular UTAU, are still **wip**.
+for the time being both the Base Oto Ini file, and Presamp ini file for use with the plugin in vanilla UTAU, are still **wip**.
 
 Structure
 ---
