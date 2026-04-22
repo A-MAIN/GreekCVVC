@@ -8,22 +8,22 @@ _tsa_tsa_ts
 _dza_dza_dz
 _fa_fa_f
 _va_va_v
-_Ta_Ta_T-
-_Da_Da_D-
+_Ta_Ta_T-          pronounce it as θα / (th ax)
+_Da_Da_D-          pronounce it as Δα / (dh ax)
 _sa_sa_s
 _za_za_z
 _ra_ra_r
 _la_la_l
-_lla_lla
-_ya_ya
+_lla_lla           pronounce it as λια / lya
+_ya_ya             pronounce it as για / ya
 _na_na_n
 _ma_ma_m
 _xa_xa_x
-_Ga_Ga_G-
-_kja_kja
-_gja_gja
-_xja_xja
-_nja_nja
+_Ga_Ga_G-          pronounce it as γα (gh ax)
+_kja_kja           pronounce it as κια (ky a)
+_gja_gja           pronounce it as γγα (σαν γγει αλλα με α αντι για ει) / (like the Word gay but ax instead of ey)
+_xja_xja           pronounce it as χια (xy a)
+_nja_nja           pronounce it as νια (ny a)
 _pe_pe_p
 _be_be_b
 _te_te_t
@@ -128,11 +128,11 @@ _i_rri
 _o_rro
 _u_rru
 
-_sta_sta-ska_ska-spa_spa
-_sfa_sfa-sxa_sxa-sya_sya
-_skja_skja-sxja_sxja
-_sma_sma-sna_sna
-_sva_sva-zya_zya
+_sta_sta-ska_ska-spa_spa          στά στααα. - σκά σκααα. - σπά σπααα. (silences are seperated by -, keep that in mind)
+_sfa_sfa-sxa_sxa-sya_sya          σφά σφααα. - σχά σχααα. - σιά σιάάά.
+_skja_skja-sxja_sxja              σκιά σκιάάά. - σχιά σχιάάά.
+_sma_sma-sna_sna                  σμά σμααα. - σνά σνααα.
+_sva_sva-zya_zya                  σβά σβααα. - ζιά ζιάάά.
 _ste_ste-ske_ske-spe_spe
 _sfe_sfe-sxe_sxe-sye_sye
 _sme_sme-sne_sne
@@ -152,11 +152,11 @@ _skju_skju-sxju_sxju
 _smu_smu-snu_snu
 _svu_svu-zyu_zyu
 
-_pxja_pxja-bya_bya-txja_txja
-_Txja_Txja-vya_vya-Dya_Dya
-_dya_dya-mya_mya-fxja_fxja
+_pxja_pxja-bya_bya-txja_txja          πιά πιααα. - μπιά μπιααα. - τιά τιααα. (although their supposed to be consonant glides for y, some consonants have that replaced with 'xj' based on the pronounciation since they are both palatal sounds.)
+_Txja_Txja-vya_vya-Dya_Dya            θιά θιααα. - βια βιααα. - διά διααα.
+_dya_dya-mya_mya-fxja_fxja            ντιά ντιααα. - μιά μιααα. - φιά φιάάά.
 _pya_pya-tya_tya-Tya_Tya
-_tsya_tsya-dzya_dzya
+_tsya_tsya-dzya_dzya                  τσιά τσιααα. - τζιά τζιααα.
 _pxe_pxe-bye_bye-txe_txe
 _Txe_Txe-vye_vye-Dye_Dye
 _dye_dye-mye_mye
@@ -178,10 +178,10 @@ _dyu_dyu-myu_myu
 _pyu_pyu-tyu_tyu-Tyu_Tyu
 _tsyu_tsyu-dzyu_dzyu
 
-_pra_pra-bra_bra-tra_tra
-_dra_dra-gra_gra
-_fra_fra-vra_vra-xra_xra
-_Tra_Tra-Dra_Dra-Gra_Gra
+_pra_pra-bra_bra-tra_tra          πρά πρααα. - μπρά μπρααα. - τιά τιααα.
+_dra_dra-gra_gra                  ντρά ντρααα. - γκρά γκρααα.
+_fra_fra-vra_vra-xra_xra          φρά φρααα. - βρά βρααα. - χρά χρααα.
+_Tra_Tra-Dra_Dra-Gra_Gra          θρά θρααα. - δρά δρααα. - γρά γρααα.
 _pre_pre-bre_bre-tre_tre
 _dre_dre-gre_gre
 _fre_fre-vre_vre-xre_xre
@@ -198,12 +198,12 @@ _pru_pru-bru_bru-tru_tru
 _dru_dru-gru_gru
 _fru_fru-vru_vru-xru_xru
 _Tru_Tru-Dru_Dru-Gru_Gru
-_kra_kra_kre_kro_kri_kru
+_kra_kra_kre_kro_kri_kru          κρά κρααα κρέ κρί κρό κρού.
 
-_pla_pla-bla_bla-tla_tla
-_dla_dla-gla_gla
-_fla_fla-vla_vla-xla_xla
-_Tla_Tla-Dla_Dla-Gla_Gla
+_pla_pla-bla_bla-tla_tla          πλά πλααα. - μπλά μπλααα. - τλά τλααα.
+_dla_dla-gla_gla                  ντλά ντλααα. - γκλά γκλααα.
+_fla_fla-vla_vla-xla_xla          φλά φλααα. - βλά βλααα. - χλά χλααα.
+_Tla_Tla-Dla_Dla-Gla_Gla          θλά θλααα. - δλά δλααα. - γλά γλααα.
 _ple_ple-ble_ble-tle_tle
 _dle_dle-gle_gle
 _fle_fle-vle_vle-xle_xle
@@ -220,11 +220,11 @@ _plu_plu-blu_blu-tlu_tlu
 _dlu_dlu-glu_glu
 _flu_flu-vlu_vlu-xlu_xlu
 _Tlu_Tlu-Dlu_Dlu-Glu_Glu
-_kla_kla_kle_klo_kli_klu
+_kla_kla_kle_klo_kli_klu          κλά κλααα κλέ κλί κλό κλού.
 
-_fta_fta-xta_xta-GDa_GDa
-_Gna_Gna-Tna_Tna-pna_pna
-_fTa_fTa-xTa_xTa-vGa_vGa
+_fta_fta-xta_xta-GDa_GDa          φτά φτααα. - χτά χτααα. - γδά γδααα.
+_Gna_Gna-Tna_Tna-pna_pna          γνά γνααα. - θνά θνααα. - πνά πνααα.
+_fTa_fTa-xTa_xTa-vGa_vGa          φθά φθααα. - χθά χθααα. - βγά βγααα.
 _fte_fte-xte_xte-GDe_GDe
 _Gne_Gne-Tne_Tne-pne_pne
 _fTe_fTe-xTe_xTe
@@ -249,9 +249,10 @@ _sfro_sfro-splo_splo-spro_spro
 _stru_stru-sklu_sklu-skru_skru
 _sfru_sfru-splu_splu-spru_spru
 
-_aN_gaN_geN_giN_goN_guN_g
-_aN_kaN_xa
-_eN_keN_xe-
+_aN_gaN_geN_giN_goN_guN_g          it's like you say the word 'αγγ-ουρι' (a ng g u r i / a ng u r i), but as αγγ-αγγ-εγγ-ογγ-ουγγ (make sure to also have 'ng gj' entries)
+_aN_kaN_xa          αγκ-αγχ-α (add them as 'ng k', 'ng ks', & 'ng x')
+_aN_Ga          αγγ-Γ-α (like the word "εγγραφηκαν" (e ng G r a f i k a n) add them as 'ng G')
+_eN_keN_xe-          εγκ-εγχ-ε (add them as 'ng kj' & 'ng xj')
 _ar_par_ba
 _ar_tar_da
 _ar_kar_ga
@@ -259,7 +260,7 @@ _ar_far_va
 _ar_Tar_Da-
 _ar_sar_za
 _ar_xar_Ga
-_er_ker_xe
+_er_ker_xe                    if a line has e's instead of a's, add them as xj, kj & gj CC entries.
 _ar_nar_la
 _ar_nar_ma
 _ar_yal_ya
@@ -353,10 +354,10 @@ _ap_tsap_dza
 _av_tsav_dza
 _ax_tsax_dza
 
-_psa_psa_pse_psi_pso_psu_ps
-_ksa_ksa_kse_ksi_kso_ksu_ks
-_psya_psya_psye_psyi_psyo_psyu
-_ksya_ksya_ksye_ksyi_ksyo_ksyu
+_psa_psa_pse_psi_pso_psu_ps          ψά ψααα ψέ ψί ψό ψού ψ.
+_ksa_ksa_kse_ksi_kso_ksu_ks          ξά ξααα ξέ ξί ξό ξού ξ.
+_psya_psya_psye_psyi_psyo_psyu          although phonetically they're 'ps xj' & 'ks xj' entries, alias them like both "psya" & "psxja"
+_ksya_ksya_ksye_ksyi_ksyo_ksyu          although phonetically they're 'ps xj' & 'ks xj' entries, alias them like both "ksya" & "κsxja"
 
 a_a_i_a_u_e_a
 i_i_u_a_e_i_e
