@@ -204,22 +204,27 @@ _pla_pla-bla_bla-tla_tla
 _dla_dla-gla_gla
 _fla_fla-vla_vla-xla_xla
 _Tla_Tla-Dla_Dla-Gla_Gla
+_sla_sla-zla_zla
 _ple_ple-ble_ble-tle_tle
 _dle_dle-gle_gle
 _fle_fle-vle_vle-xle_xle
 _Tle_Tle-Dle_Dle-Gle_Gle
+_sle_sle-zle_zle
 _pli_pli-bli_bli-tli_tli
 _dli_dli-gli_gli
 _fli_fli-vli_vli-xli_xli
 _Tli_Tli-Dli_Dli-Gli_Gli
+_sli_sli-zli_zli
 _plo_plo-blo_blo-tlo_tlo
 _dlo_dlo-glo_glo
 _flo_flo-vlo_vlo-xlo_xlo
 _Tlo_Tlo-Dlo_Dlo-Glo_Glo
+_slo_slo-zlo_zlo
 _plu_plu-blu_blu-tlu_tlu
 _dlu_dlu-glu_glu
 _flu_flu-vlu_vlu-xlu_xlu
 _Tlu_Tlu-Dlu_Dlu-Glu_Glu
+_slo_slo-zlo_zlo
 _kla_kla_kle_klo_kli_klu
 
 _fta_fta-xta_xta-GDa_GDa
@@ -289,6 +294,7 @@ _an_kan_ga
 _an_Tan_Da-
 _an_xan_Ga
 _an_man_la
+_an_ya
 _en_ken_ge
 _en_ken_xe
 _as_pas_ba
