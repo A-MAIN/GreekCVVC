@@ -224,7 +224,7 @@ _plu_plu-blu_blu-tlu_tlu
 _dlu_dlu-glu_glu
 _flu_flu-vlu_vlu-xlu_xlu
 _Tlu_Tlu-Dlu_Dlu-Glu_Glu
-_slo_slo-zlo_zlo
+_slu_slu-zlu_zlu
 _kla_kla_kle_klo_kli_klu
 
 _fta_fta-xta_xta-GDa_GDa
