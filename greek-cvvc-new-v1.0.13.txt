@@ -224,7 +224,7 @@ _plu_plu-blu_blu-tlu_tlu
 _dlu_dlu-glu_glu
 _flu_flu-vlu_vlu-xlu_xlu
 _Tlu_Tlu-Dlu_Dlu-Glu_Glu
-_slu_slu-zlu_zlu
+_slo_slo-zlo_zlo
 _kla_kla_kle_klo_kli_klu
 
 _fta_fta-xta_xta-GDa_GDa
@@ -294,7 +294,7 @@ _an_lan_ra
 _an_kan_ga
 _an_Tan_Da-
 _an_xan_Ga
-_an_man_ya
+_an_ya
 _en_ken_ge
 _en_ken_xe
 _as_pas_ba
@@ -316,6 +316,8 @@ _az_maz_na
 _ez_kez_ge
 _ez_kez_xe
 _as_laz_la
+_as_zaz_sa
+_as_yaz_ya
 _af_paf_ba
 _af_taf_da
 _af_kaf_ga
@@ -332,7 +334,6 @@ _ap_Tap_Da-
 _ep_kep_ge
 _ak_nak_ma
 _ak_tak_da
-_ak_vag_va
 _av_pav_ba
 _av_tav_da
 _av_kav_ga

@@ -129,10 +129,10 @@ _o_rro
 _u_rru
 
 _sta_sta-ska_ska-spa_spa          στά στααα. - σκά σκααα. - σπά σπααα. (silences are seperated by -, keep that in mind)
-_sfa_sfa-sxa_sxa-sya_sya          σφά σφααα. - σχά σχααα. - σιά σιααα.
-_skja_skja-sxja_sxja              σκιά σκιααα. - σχιά σχιααα.
+_sfa_sfa-sxa_sxa-sya_sya          σφά σφααα. - σχά σχααα. - σιά σιάάά.
+_skja_skja-sxja_sxja              σκιά σκιάάά. - σχιά σχιάάά.
 _sma_sma-sna_sna                  σμά σμααα. - σνά σνααα.
-_sva_sva-zya_zya                  σβά σβααα. - ζιά ζιααα.
+_sva_sva-zya_zya                  σβά σβααα. - ζιά ζιάάά.
 _ste_ste-ske_ske-spe_spe
 _sfe_sfe-sxe_sxe-sye_sye
 _sme_sme-sne_sne
@@ -153,10 +153,10 @@ _smu_smu-snu_snu
 _svu_svu-zyu_zyu
 
 _pxja_pxja-bya_bya-txja_txja          πιά πιααα. - μπιά μπιααα. - τιά τιααα. (although their supposed to be consonant glides for y, some consonants have that replaced with 'xj' based on the pronounciation since they are both palatal sounds.)
-_Txja_Txja-vya_vya-Dya_Dya            θιά θιααα. - βιά βιααα. - διά διααα.
+_Txja_Txja-vya_vya-Dya_Dya            θιά θιααα. - βια βιααα. - διά διααα.
 _dya_dya-mya_mya-fxja_fxja            ντιά ντιααα. - μιά μιααα. - φιά φιάάά.
 _pya_pya-tya_tya-Tya_Tya
-_tsya_tsya-dzya_dzya                  τσιά τσιααα. - τζιά τζιααα. (alias the first one as '-tsxja' & 'tsxja')
+_tsya_tsya-dzya_dzya                  τσιά τσιααα. - τζιά τζιααα.
 _pxe_pxe-bye_bye-txe_txe
 _Txe_Txe-vye_vye-Dye_Dye
 _dye_dye-mye_mye
@@ -178,7 +178,7 @@ _dyu_dyu-myu_myu
 _pyu_pyu-tyu_tyu-Tyu_Tyu
 _tsyu_tsyu-dzyu_dzyu
 
-_pra_pra-bra_bra-tra_tra          πρά πρααα. - μπρά μπρααα. - τρά τρααα.
+_pra_pra-bra_bra-tra_tra          πρά πρααα. - μπρά μπρααα. - τιά τιααα.
 _dra_dra-gra_gra                  ντρά ντρααα. - γκρά γκρααα.
 _fra_fra-vra_vra-xra_xra          φρά φρααα. - βρά βρααα. - χρά χρααα.
 _Tra_Tra-Dra_Dra-Gra_Gra          θρά θρααα. - δρά δρααα. - γρά γρααα.
@@ -224,7 +224,7 @@ _plu_plu-blu_blu-tlu_tlu
 _dlu_dlu-glu_glu
 _flu_flu-vlu_vlu-xlu_xlu
 _Tlu_Tlu-Dlu_Dlu-Glu_Glu
-_slu_slu-zlu_zlu
+_slo_slo-zlo_zlo
 _kla_kla_kle_klo_kli_klu          κλά κλααα κλέ κλί κλό κλού.
 
 _fta_fta-xta_xta-GDa_GDa          φτά φτααα. - χτά χτααα. - γδά γδααα.
@@ -294,7 +294,7 @@ _an_lan_ra
 _an_kan_ga
 _an_Tan_Da-
 _an_xan_Ga
-_an_man_ya
+_an_ya
 _en_ken_ge
 _en_ken_xe
 _as_pas_ba
@@ -316,6 +316,8 @@ _az_maz_na
 _ez_kez_ge
 _ez_kez_xe
 _as_laz_la
+_as_zaz_sa
+_as_yaz_ya
 _af_paf_ba
 _af_taf_da
 _af_kaf_ga
@@ -332,7 +334,6 @@ _ap_Tap_Da-
 _ep_kep_ge
 _ak_nak_ma
 _ak_tak_da
-_ak_vag_va
 _av_pav_ba
 _av_tav_da
 _av_kav_ga
