@@ -178,7 +178,7 @@ _dyu_dyu-myu_myu
 _pyu_pyu-tyu_tyu-Tyu_Tyu
 _tsyu_tsyu-dzyu_dzyu
 
-_pra_pra-bra_bra-tra_tra          πρά πρααα. - μπρά μπρααα. - τιά τιααα.
+_pra_pra-bra_bra-tra_tra          πρά πρααα. - μπρά μπρααα. - τρά τρααα.
 _dra_dra-gra_gra                  ντρά ντρααα. - γκρά γκρααα.
 _fra_fra-vra_vra-xra_xra          φρά φρααα. - βρά βρααα. - χρά χρααα.
 _Tra_Tra-Dra_Dra-Gra_Gra          θρά θρααα. - δρά δρααα. - γρά γρααα.
