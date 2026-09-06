@@ -376,7 +376,7 @@ a_a_i_a_u_e_a
 i_i_u_a_e_i_e
 u_u_i_o_a_o_i
 e_e_u_o_e_o_o
-o_o_u_o_e_o
+o_o_u_o_e_o_u
 
 a_R
 e_R
