@@ -229,22 +229,27 @@ _kla_kla_kle_klo_kli_klu          κλά κλααα κλέ κλί κλό κλο�
 
 _fta_fta-xta_xta-GDa_GDa          φτά φτααα. - χτά χτααα. - γδά γδααα.
 _Gna_Gna-Tna_Tna-pna_pna          γνά γνααα. - θνά θνααα. - πνά πνααα.
+_pta_pta-kta_kta-sTa_sTa          πτά πτααα. - κτά κτααα. - σΘά σΘααα.
 _fTa_fTa-xTa_xTa-vGa_vGa          φθά φθααα. - χθά χθααα. - βγά βγααα.
 _fte_fte-xte_xte-GDe_GDe
 _Gne_Gne-Tne_Tne-pne_pne
+_pte_pte-kte_kte-sTe_sTe
 _fTe_fTe-xTe_xTe
 _fti_fti-xti_xti-GDi_GDi
 _Gni_Gni-Tni_Tni-pni_pni
+_pti_pti-kti_kti-sTi_sTi
 _fTi_fTi-xTi_xTi
 _fto_fto-xto_xto-GDo_GDo
 _Gno_Gno-Tno_Tno-pno_pno
-_fTo_fTo-xTo_xTo
+_pto_pto-kto_kto-sTo_sTo
+_fTo_fTo-xTo_xTo-vGo_vGo
 _ftu_ftu-xtu_xtu-GDu_GDu
 _Gnu_Gnu-Tnu_Tnu-pnu_pnu
-_fTu_fTu-xTu_xTu
+_ptu_ptu-ktu_ktu-sTu_sTu
+_fTu_fTu-xTu_xTu-vGu_vGu
 
-_stra_stra-skla_skla-skra_skra
-_sfra_sfra-spla_spla-spra_spra
+_stra_stra-skla_skla-skra_skra          στρά στρααα. - σκλά σκλααα. - σκρά σκρααα.
+_sfra_sfra-spla_spla-spra_spra          σφρά σφρααα. - σπλά σπλααα. - σπρά σπρααα.
 _stre_stre-skle_skle-skre_skre
 _sfre_sfre-sple_sple-spre_spre
 _stri_stri-skli_skli-skri_skri
@@ -258,7 +263,7 @@ _aN_gaN_geN_giN_goN_guN_g          it's like you say the word 'αγγ-ουρι' 
 _aN_kaN_xa          αγκ-αγχ-α (add them as 'ng k', 'ng ks', & 'ng x')
 _aN_GaN_ta          αγγ-Γ-αγγ-τα (like the word "εγγραφηκαν" (e ng G r a f i k a n) & "ελεγκτής" (e l e ng t i s) add them as 'ng G' & 'ng t')
 _aN_laN_ra
-_eN_keN_xe-          εγκ-εγχ-ε (add them as 'ng kj' & 'ng xj')
+_eN_keN_xe-         εγκ-εγχ-ε (add them as 'ng kj' & 'ng xj')
 _ar_par_ba
 _ar_tar_da
 _ar_kar_ga
