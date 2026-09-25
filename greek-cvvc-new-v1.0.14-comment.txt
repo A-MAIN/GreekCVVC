@@ -156,7 +156,7 @@ _pxja_pxja-bya_bya-txja_txja          πιά πιααα. - μπιά μπιααα
 _Txja_Txja-vya_vya-Dya_Dya            θιά θιααα. - βια βιααα. - διά διααα.
 _dya_dya-mya_mya-fxja_fxja            ντιά ντιααα. - μιά μιααα. - φιά φιάάά.
 _pya_pya-tya_tya-Tya_Tya
-_tsya_tsya-dzya_dzya                  τσιά τσιααα. - τζιά τζιααα.
+_tsya_tsya-dzya_dzya                  τσιά τσιααα. - τζιά τζιααα. (alias as the first one as '- tsxja' / tsxja)
 _pxe_pxe-bye_bye-txe_txe
 _Txe_Txe-vye_vye-Dye_Dye
 _dye_dye-mye_mye-fxe_fxe
