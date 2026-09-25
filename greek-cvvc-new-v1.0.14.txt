@@ -159,22 +159,22 @@ _pya_pya-tya_tya-Tya_Tya
 _tsya_tsya-dzya_dzya
 _pxe_pxe-bye_bye-txe_txe
 _Txe_Txe-vye_vye-Dye_Dye
-_dye_dye-mye_mye
+_dye_dye-mye_mye-fxe_fxe
 _pye_pye-tye_tye-Tye_Tye
 _tsye_tsye-dzye_dzye
 _pxi_pxi-byi_byi-txi_txi
 _Txi_Txi-vyi_vyi-Dyi_Dyi
-_dyi_dyi_myi_myi
+_dyi_dyi-myi_myi
 _pyi_pyi-tyi_tyi-Tyi_Tyi
 _tsyi_tsyi-dzyi_dzyi
 _pxjo_pxjo-byo_byo-txjo_txjo
 _Txjo_Txjo-vyo_vyo-Dyo_Dyo
-_dyo_dyo-myo_myo
+_dyo_dyo-myo_myo-fxjo_fxjo
 _pyo_pyo-tyo_tyo-Tyo_Tyo
 _tsyo_tsyo-dzyo_dzyo
 _pxju_pxju-byu_byu-txju_txju
 _Txju_Txju-vyu_vyu-Dyu_Dyu
-_dyu_dyu-myu_myu
+_dyu_dyu-myu_myu-fxju-fxju
 _pyu_pyu-tyu_tyu-Tyu_Tyu
 _tsyu_tsyu-dzyu_dzyu
 
